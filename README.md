@@ -16,7 +16,7 @@
 <!-- Tech Stack Icons -->
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,postgres,html,css,js,git,aws" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,tailwind,postgres,html,css,js,git,aws,docker" />
 </p>
 
 <!-- Dev Quote (optional) -->
