@@ -10,7 +10,6 @@
 <!-- Short About Section -->
 - 🌱 I’m currently working on: `LexEvo AI` – a legal doc analyzer using HuggingFace + Django + React
 - 💬 Ask me about: Python, Django, REST APIs, AI Projects, Web Automation
-- 📫 How to reach me: `nikulsaniya@gmail.com`
 - ⚡ Fun fact: I love building tools that solve real-world problems using code
 
 <!-- Tech Stack Icons -->
