@@ -9,7 +9,6 @@
 -->
 
 <!-- Short About Section -->
-- 🌱 I’m currently working on: `LexEvo AI` – a legal doc analyzer using HuggingFace + Django + NextJS
 - 💬 Ask me about: Python, Django, REST APIs, AI Projects, Web Automation
 - ⚡ Fun fact: I love building tools that solve real-world problems using code
 
